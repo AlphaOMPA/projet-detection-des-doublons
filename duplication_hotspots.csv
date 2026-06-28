@@ -1,0 +1,4 @@
+type_agregation,valeur,nombre_fichiers_total,nombre_fichiers_doublons,pourcentage_doublons,taille_totale_octets,espace_gaspille_octets
+repertoire,Users,3,2,66.67,90786,44033
+categorie,document,3,2,66.67,90786,44033
+owner,AOmpa,3,2,66.67,90786,44033
